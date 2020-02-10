@@ -32,7 +32,7 @@
         "commission_percent": "<integer>",
         "category_id": "<integer>",
         "sub_category_id": "<integer>",
-        "image": "<string>",
+        "image": "/images/watch.jpg",
         "stock": "<integer>",
         "average_rating": "<integer>",
         "created_by": "<string>",
