@@ -1,0 +1,30 @@
+[
+
+
+{
+	"name": "Smartphone/Mobile",
+	"description": "Wireless phones",
+	"images": "<string>"
+},
+
+{
+	"name": "Computers/Accessories",
+	"description": "Get best deals on the Accessories",
+	"images": "<string>"
+},
+
+{
+	"name": "Electronics/Television",
+	"description": "Amazing Telelvisions",
+	"images": "<string>"
+},
+
+{
+	"name": "Fashion/Shoes",
+	"description": "Best Shoes on the market",
+	"images": "<string>"
+}
+
+
+
+]

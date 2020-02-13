@@ -1,0 +1,12 @@
+{
+    "name": "<string>",
+    "description": "<string>",
+    "cost_price": "<number>",
+    "selling_price": "<number>",
+    "stock": "<integer>",
+    "category_id": "<integer>",
+    "sub_category_id": "<integer>",
+    "images": "<string>",
+    "created_by": "<string>",
+    "deleted": "<boolean>"
+}

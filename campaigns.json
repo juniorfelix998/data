@@ -1,0 +1,29 @@
+[
+    {
+	"category_id": 1,
+	"limit": 20,
+	"discount_price": 50.00,
+	"price_type_id": 5
+},
+
+{
+	"category_id": 2,
+	"limit": 30,
+	"discount_price": 100.70,
+	"price_type_id": 8
+},
+
+{
+	"category_id": 3,
+	"limit": 7,
+	"discount_price": 70.00,
+	"price_type_id": 9
+},
+
+{
+	"category_id": 4,
+	"limit": 1000,
+	"discount_price": 2000.00,
+	"price_type_id": 75
+}
+]
