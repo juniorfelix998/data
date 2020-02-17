@@ -65,6 +65,30 @@
         "is_sponsored": false,
         "deleted": "<deleted>",
         "meta": "<object>"
+    },
+
+
+    {
+        "name": "Tecno F1",
+        "description": "impressive in terms of specs and features and you can’t take anything away from the 5-inch screen",
+        "specification": "TECNO F1 runs on Android 8.1 Oreo",
+        "brand": "Tecno",
+        "slug": "<string>",
+        "price": 6000,
+        "discounted_price": 0,
+        "commission_percent": 1,
+        "category_id": 5,
+        "sub_category_id": 6,
+        "image": "./images/tecno.jpg",
+        "stock": 40,
+        "average_rating": 3,
+        "created_by": "Levy levy",
+        "assigned_by": "Caro Caro",
+        "assigned_to": "Wesly Akomya",
+        "droppedoff_at": "Malaba",
+        "is_sponsored": true,
+        "deleted": "<deleted>",
+        "meta": "<object>"
     }
 
 
