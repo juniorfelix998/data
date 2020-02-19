@@ -89,7 +89,31 @@
         "is_sponsored": true,
         "deleted": "<deleted>",
         "meta": "<object>"
+    },
+
+    {
+        "name": "L'Oreal Men Expert Pure",
+        "description": "One of the world’s best-loved beauty brands",
+        "specification": "Combat shiny and oily skin",
+        "brand": "L'Oreal",
+        "slug": "<string>",
+        "price": 875,
+        "discounted_price": 10,
+        "commission_percent": 4,
+        "category_id": 6,
+        "sub_category_id": 7,
+        "image": "./images/oreal.jpg",
+        "stock": 50,
+        "average_rating": 4,
+        "created_by": "Levy masai",
+        "assigned_by": "Caro mbau",
+        "assigned_to": "mat lola",
+        "droppedoff_at": "Malaba",
+        "is_sponsored": true,
+        "deleted": "<deleted>",
+        "meta": "<object>"
     }
+
 
 
 
